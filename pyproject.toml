@@ -1,0 +1,47 @@
+[project]
+name = "export-openedx-mongo"
+version = "0.1.0"
+description = "CLI tool to query Open edX course authoring data directly from MongoDB"
+readme = "README.md"
+requires-python = ">=3.12"
+license = "Apache-2.0"
+dependencies = [
+    "pymongo>=4.0.0,<5.0.0",
+    "click>=8.0.0,<9.0.0",
+]
+authors = [
+    {name = "Tycho Hob"}
+]
+keywords = ["openedx", "mongodb", "cli", "course-data"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Education",
+    "Topic :: Education",
+    "Topic :: Database",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.12",
+]
+
+[project.scripts]
+openedx-course-query = "main:cli"
+
+[project.optional-dependencies]
+dev = [
+    "ruff>=0.1.0",
+]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = ["main", "course_data"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py38"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W"]
+ignore = []

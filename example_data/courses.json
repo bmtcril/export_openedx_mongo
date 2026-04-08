@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "699e0a0b26d64d2fab69e7d2",
+    "org": "OpenedX",
+    "course": "DemoX",
+    "run": "DemoCourse",
+    "edited_on": "2026-02-24T20:28:59.106000",
+    "versions": {
+      "draft-branch": "69c2dd487ac3088a2cbfd3f2",
+      "published-branch": "69c2dd497ac3088a2cbfd3f7"
+    }
+  },
+  {
+    "_id": "69c2de277ac3088a2cbfd3fa",
+    "org": "UAxim",
+    "course": "UA101",
+    "run": "2026_01",
+    "edited_on": "2026-03-24T18:55:35.390000",
+    "versions": {
+      "draft-branch": "69c3dc43012eedffd76193a9",
+      "published-branch": "69c3dc45012eedffd76193aa"
+    }
+  },
+  {
+    "_id": "69c3dd19012eedffd76193ad",
+    "org": "AximU",
+    "course": "AX201",
+    "run": "2026_01",
+    "edited_on": "2026-03-25T13:03:21.453000",
+    "versions": {
+      "draft-branch": "69cbfe3f6050205e4492a77f",
+      "published-branch": "69c3dd93012eedffd76193db"
+    }
+  },
+  {
+    "_id": "69ce7498f86c275ffe90d3d5",
+    "org": "AximU",
+    "course": "RBAC101",
+    "run": "2026",
+    "edited_on": "2026-04-02T13:52:24.383000",
+    "versions": {
+      "draft-branch": "69ce754951bfd1e50190d3fa",
+      "published-branch": "69ce754af86c275ffe90d3e8"
+    }
+  },
+  {
+    "_id": "69ce7aa2729bbc009d458a0d",
+    "org": "AximU",
+    "course": "RBAC102",
+    "run": "2026",
+    "edited_on": "2026-04-02T14:18:10.317000",
+    "versions": {
+      "draft-branch": "69ce7b04729bbc009d458a21",
+      "published-branch": "69ce7b04729bbc009d458a22"
+    }
+  },
+  {
+    "_id": "69ce7e6d729bbc009d458a25",
+    "org": "AximU",
+    "course": "RBAC103",
+    "run": "2026",
+    "edited_on": "2026-04-02T14:34:21.145000",
+    "versions": {
+      "draft-branch": "69ce82f4729bbc009d458a53",
+      "published-branch": "69ce8347729bbc009d458a55"
+    }
+  },
+  {
+    "_id": "69ce856508c052f32d458a33",
+    "org": "AximU",
+    "course": "RBAC104",
+    "run": "2026",
+    "edited_on": "2026-04-02T15:04:05.055000",
+    "versions": {
+      "draft-branch": "69ce8847729bbc009d458a82",
+      "published-branch": "69ce887708c052f32d458a3c"
+    }
+  },
+  {
+    "_id": "69ce9824729bbc009d458a86",
+    "org": "AximU",
+    "course": "RBAC105",
+    "run": "2026",
+    "edited_on": "2026-04-02T16:24:04.632000",
+    "versions": {
+      "draft-branch": "69cea0cc08c052f32d458a62",
+      "published-branch": "69cea0d7729bbc009d458a9e"
+    }
+  },
+  {
+    "_id": "69cea35908c052f32d458a65",
+    "org": "AximU",
+    "course": "RBAC106",
+    "run": "2026",
+    "edited_on": "2026-04-02T17:11:53.285000",
+    "versions": {
+      "draft-branch": "69ceba0c08c052f32d458a96",
+      "published-branch": "69ceba0e08c052f32d458a97"
+    }
+  },
+  {
+    "_id": "69cebbc408c052f32d458a9a",
+    "org": "AximU",
+    "course": "AXIM107",
+    "run": "2026",
+    "edited_on": "2026-04-02T18:56:04.612000",
+    "versions": {
+      "draft-branch": "69cec443729bbc009d458ad9",
+      "published-branch": "69cec445729bbc009d458ada"
+    }
+  }
+]
